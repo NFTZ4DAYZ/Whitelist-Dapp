@@ -1,4 +1,4 @@
-# Whitelist-Dapp <a href="https://whitelist-dapp-nftz4dayz.vercel.app/" target="_blank">Play Here</a>
+# Whitelist-Dapp <a href="https://whitelist-dapp-nftz4dayz.vercel.app/" target="_blank">Dive In</a>
 
 
  
