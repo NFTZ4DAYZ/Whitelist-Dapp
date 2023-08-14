@@ -21,4 +21,4 @@
  
 
 
-<a href='https://pick-two-memory-game.vercel.app/' target='_blank'><img src='https://i.postimg.cc/7bryykC7/memory-Game.png' border='0' alt='memory-Game'/></a>
+<a href='[https://pick-two-memory-game.vercel.app/](https://whitelist-dapp-nftz4dayz.vercel.app/)' target='_blank'><img src='' border='0' alt='memory-Game'/></a>
