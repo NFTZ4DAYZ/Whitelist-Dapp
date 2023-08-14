@@ -21,4 +21,4 @@
  
 
 
-<a href='https://whitelist-dapp-nftz4dayz.vercel.app/' target='_blank'><img src='' border='0' alt='memory-Game'/></a>
+<a href='https://whitelist-dapp-nftz4dayz.vercel.app/' target='_blank'><img src='https://postimg.cc/GTQ6FBk7' border='0' alt='memory-Game'/></a>
