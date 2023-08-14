@@ -1,4 +1,6 @@
-# Whitelist-Dapp
+# Whitelist-Dapp <a href="https://whitelist-dapp-nftz4dayz.vercel.app/" target="_blank">Play Here</a>
+
+
  
  Whitelist access should be given to the first 10 users for free who want to get in.
  There should be a website where people can go and enter into the whitelist
@@ -17,3 +19,6 @@
   The project came together flawlessly as a Decentalized application that provides only the certain Whitelisted wallets acces to using the Dapp. 
   I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.
  
+
+
+<a href='https://pick-two-memory-game.vercel.app/' target='_blank'><img src='https://i.postimg.cc/7bryykC7/memory-Game.png' border='0' alt='memory-Game'/></a>
