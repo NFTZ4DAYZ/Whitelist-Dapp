@@ -15,7 +15,7 @@
  ### Overview/Notes
   
  ~The project came together flawlessly as a Decentalized application that provides only the certain Whitelisted wallets acces to using the Dapp. 
- ~I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.
+ ~I added my personal touch when it came to bulding the frontend HTML & CSS, modifying the orignial LW3 Design.
  
 
 
