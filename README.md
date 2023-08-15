@@ -1,6 +1,7 @@
 # Whitelist-Dapp <a href="https://whitelist-dapp-nftz4dayz.vercel.app/" target="_blank">Dive In</a>
 
 ~Whitelist access will be given to the first 10 users for free who want to get in.
+
 ~Website where people can go and enter into the whitelist
  
  ## Tech Stack
